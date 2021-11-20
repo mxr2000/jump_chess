@@ -1,0 +1,10 @@
+D:\Programs\csharp\winform\JumpChess\JumpChess\bin\Debug\JumpChess.exe.config
+D:\Programs\csharp\winform\JumpChess\JumpChess\bin\Debug\JumpChess.exe
+D:\Programs\csharp\winform\JumpChess\JumpChess\bin\Debug\JumpChess.pdb
+D:\Programs\csharp\winform\JumpChess\JumpChess\obj\Debug\JumpChess.csprojAssemblyReference.cache
+D:\Programs\csharp\winform\JumpChess\JumpChess\obj\Debug\JumpChess.Form1.resources
+D:\Programs\csharp\winform\JumpChess\JumpChess\obj\Debug\JumpChess.Properties.Resources.resources
+D:\Programs\csharp\winform\JumpChess\JumpChess\obj\Debug\JumpChess.csproj.GenerateResource.cache
+D:\Programs\csharp\winform\JumpChess\JumpChess\obj\Debug\JumpChess.csproj.CoreCompileInputs.cache
+D:\Programs\csharp\winform\JumpChess\JumpChess\obj\Debug\JumpChess.exe
+D:\Programs\csharp\winform\JumpChess\JumpChess\obj\Debug\JumpChess.pdb

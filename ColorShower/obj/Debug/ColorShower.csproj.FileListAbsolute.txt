@@ -1,0 +1,10 @@
+D:\Programs\csharp\winform\JumpChess\ColorShower\bin\Debug\ColorShower.exe.config
+D:\Programs\csharp\winform\JumpChess\ColorShower\bin\Debug\ColorShower.exe
+D:\Programs\csharp\winform\JumpChess\ColorShower\bin\Debug\ColorShower.pdb
+D:\Programs\csharp\winform\JumpChess\ColorShower\obj\Debug\ColorShower.csprojAssemblyReference.cache
+D:\Programs\csharp\winform\JumpChess\ColorShower\obj\Debug\ColorShower.Form1.resources
+D:\Programs\csharp\winform\JumpChess\ColorShower\obj\Debug\ColorShower.Properties.Resources.resources
+D:\Programs\csharp\winform\JumpChess\ColorShower\obj\Debug\ColorShower.csproj.GenerateResource.cache
+D:\Programs\csharp\winform\JumpChess\ColorShower\obj\Debug\ColorShower.csproj.CoreCompileInputs.cache
+D:\Programs\csharp\winform\JumpChess\ColorShower\obj\Debug\ColorShower.exe
+D:\Programs\csharp\winform\JumpChess\ColorShower\obj\Debug\ColorShower.pdb
